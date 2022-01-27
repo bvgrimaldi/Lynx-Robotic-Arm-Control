@@ -1,0 +1,18 @@
+---
+:id: 59480524
+:submitters:
+- :name: Brian Grimaldi
+  :email: bgrimald@seas.upenn.edu
+- :name: Alexis Ward
+  :email: aleward@seas.upenn.edu
+- :name: Venkata Gurrala
+  :email: vgurrala@seas.upenn.edu
+- :name: Sheil Sarda
+  :email: sheils@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-15 02:54:13.518453000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-14 18:54:13.518453000 Z
+:status: processed
+:score: 8.0
